@@ -10,4 +10,4 @@ https://raw.githubusercontent.com/Meapsa/niu-kqi3-pro-hacking/refs/heads/main/kq
 
 https://raw.githubusercontent.com/Meapsa/niu-kqi3-pro-hacking/refs/heads/main/Kqi3protest2.json
 
-
+# update it doesnt work iam try tomorrow to fix it
