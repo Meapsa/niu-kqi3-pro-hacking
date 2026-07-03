@@ -4,4 +4,8 @@
 https://raw.githubusercontent.com/Meapsa/niu-kqi3-pro-hacking/refs/heads/main/Kqi3pro.json
 
 
-#So this above is the old one i made this one to try and find the speed limiter
+# So this above is the old one i made this one to try and find the speed limiter
+
+https://raw.githubusercontent.com/Meapsa/niu-kqi3-pro-hacking/refs/heads/main/newtry03072026
+
+
