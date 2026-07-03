@@ -6,6 +6,6 @@ https://raw.githubusercontent.com/Meapsa/niu-kqi3-pro-hacking/refs/heads/main/Kq
 
 # So this above is the old one i made this one to try and find the speed limiter
 
-https://raw.githubusercontent.com/Meapsa/niu-kqi3-pro-hacking/refs/heads/main/kqi3protest3
+https://raw.githubusercontent.com/Meapsa/niu-kqi3-pro-hacking/refs/heads/main/kqi3protest3.json
 
 
